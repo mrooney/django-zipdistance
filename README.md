@@ -32,7 +32,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 Setup: 
 
 1. Add to ```zipdistance``` to ```INSTALLED_APPS`` at ```settings.py```
-2. Do load zipcodes with ```python manage.py syncdb```
+2. Import zipcodes from initial_data_manual.json (TODO: command-line step)
 
 
 Template tag usage example: 
